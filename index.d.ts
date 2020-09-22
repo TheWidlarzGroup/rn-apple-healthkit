@@ -26,6 +26,8 @@ declare module "rn-apple-healthkit" {
 
         getMindfulSession(options: MindfulSessionData, callback: (err: string, results: HealthValue) => void): void;
 
+        getBloatingSamples(options: MindfulSessionData, callback: (err: string, results: Object) => void): void;
+
         getStepCount(options: any, callback: (err: string, results: HealthValue) => void): void;
     }
 

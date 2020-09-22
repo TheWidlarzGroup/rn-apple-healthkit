@@ -2,7 +2,7 @@
 #import "RCTAppleHealthKit+Queries.h"
 #import "RCTAppleHealthKit+Utils.h"
 
-@implementation RCTAppleHealthKit (Methods_Sleep)
+@implementation RCTAppleHealthKit (Methods_Symptoms)
 
 - (void)symptoms_getBloating:(NSDictionary *)input callback:(RCTResponseSenderBlock)callback
 {
