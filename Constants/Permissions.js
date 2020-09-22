@@ -8,6 +8,7 @@ export const Permissions = {
   AppleExerciseTime: "AppleExerciseTime",
   BasalEnergyBurned: "BasalEnergyBurned",
   BiologicalSex: "BiologicalSex",
+  Bloating: "Bloating",
   BloodGlucose: "BloodGlucose",
   BloodPressureDiastolic: "BloodPressureDiastolic",
   BloodPressureSystolic: "BloodPressureSystolic",
