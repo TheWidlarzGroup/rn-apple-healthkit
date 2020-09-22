@@ -6,7 +6,7 @@
 //
 #import "RCTAppleHealthKit.h"
 
-@interface RCTAppleHealthKit (Methods_Dietary)
+@interface RCTAppleHealthKit (Methods_Symptoms)
 
 //- (void)getSymptomsDailySamples:(NSDictionary *)input callback:(RCTResponseSenderBlock)callback;
 
